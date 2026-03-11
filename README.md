@@ -6,7 +6,7 @@ This repository contains my **personal portfolio website**, built to showcase my
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ajay Raj**, a Computer Science Engineering student interested in:
+Hi, I'm **Ajaya Raj**, a Computer Science Engineering student interested in:
 
 * Web Development
 * Algorithms & Problem Solving
